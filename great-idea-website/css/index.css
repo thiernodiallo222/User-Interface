@@ -83,9 +83,12 @@ nav a {
 	position: right;
 	width: 25px
 	height:10px;
+
 }
-#header-id {
-	display: true;
+.cross-section div.left {
+	background: green;
+	display: block;
+	float: left;
 }
 
 .cross-section {
@@ -124,4 +127,7 @@ margin 10px;
 	height: 160px;
 
 
+}
+.cross-section top-right-section top-img {
+	display: true;
 }
